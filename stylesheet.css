@@ -1,8 +1,4 @@
-p{
-  color:red;
-  font-size:25px;
-  font-family:Arial;
-}
+
 #bar{
   margin-top:5px;
   width:1150px;
@@ -11,7 +7,7 @@ p{
 }
 #home{
   height:90px;
-  margin-top:5px;
+  margin-top:40px;
   display:inline-block;
   margin-left:5px;
   background-color:blue;
@@ -22,7 +18,7 @@ p{
 }
 #about{
   height:90px;
-  margin-top:5px;
+  margin-top:40px;
   display:inline-block;
   margin-left:5px;
   background-color:green;
@@ -33,7 +29,7 @@ p{
 }
 #events{
   height:90px;
-  margin-top:5px;
+  margin-top:40px;
   display:inline-block;
   margin-left:5px;
   background-color:purple;
@@ -44,7 +40,7 @@ p{
 }
 #outreach{
   height:90px;
-  margin-top:5px;
+  margin-top:40px;
   display:inline-block;
   margin-left:5px;
   background-color:yellow;
