@@ -7,7 +7,7 @@
 }
 #home{
   height:90px;
-  margin-top:40px;
+  margin-top:5px;
   display:inline-block;
   margin-left:5px;
   background-color:blue;
@@ -18,7 +18,7 @@
 }
 #about{
   height:90px;
-  margin-top:40px;
+  margin-top:5px;
   display:inline-block;
   margin-left:5px;
   background-color:green;
@@ -29,7 +29,7 @@
 }
 #events{
   height:90px;
-  margin-top:40px;
+  margin-top:5px;
   display:inline-block;
   margin-left:5px;
   background-color:purple;
@@ -40,7 +40,7 @@
 }
 #outreach{
   height:90px;
-  margin-top:40px;
+  margin-top:5px;
   display:inline-block;
   margin-left:5px;
   background-color:yellow;
@@ -58,4 +58,5 @@ a{
   text-decoration:none;
   color:#1F1D58;
   font-size:35px;
+  margin-top:45px;
 }
