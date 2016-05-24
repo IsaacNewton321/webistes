@@ -52,14 +52,15 @@
 a:hover{
   text-decoration:none;
   color:white;
-  font-size:35px;
+  font-size:50px;
   margin-top:45px;
   font-family:Courier;
 }
 a{
   text-decoration:none;
   color:#1F1D58;
-  font-size:35px;
+  font-size:50px;
   margin-top:45px;
   font-family:Courier;
+  font-weight:bold;
 }
