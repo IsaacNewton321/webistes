@@ -3,3 +3,14 @@ p{
   font-size:25px;
   font-family:Arial;
 }
+div{
+  margin-top:5px;
+  width:1000px;
+  height:100px;
+  background-color:orange;
+}
+div div{
+  display:inline-block;
+  height:100px;
+  width:250px;
+}
