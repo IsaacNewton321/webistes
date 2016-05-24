@@ -1,4 +1,7 @@
-
+h1{
+  font-size:70;
+  color:blue;
+}
 #bar{
   margin-top:5px;
   width:1150px;
