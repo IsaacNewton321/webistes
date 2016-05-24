@@ -16,6 +16,7 @@ p{
   margin-left:5px;
   background-color:blue;
   width:250px;
+  border-radius:10px;
 }
 #about{
   height:90px;
@@ -24,6 +25,7 @@ p{
   margin-left:5px;
   background-color:green;
   width:250px;
+  border-radius:10px;
 }
 #events{
   height:90px;
@@ -32,6 +34,7 @@ p{
   margin-left:5px;
   background-color:purple;
   width:250px;
+  border-radius:10px;
 }
 #outreach{
   height:90px;
@@ -40,4 +43,5 @@ p{
   margin-left:5px;
   background-color:yellow;
   width:250px;
+  border-radius:10px;
 }
