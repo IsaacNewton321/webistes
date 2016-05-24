@@ -52,8 +52,10 @@
 a:hover{
   text-decoration:none;
   color:white;
+  font-size:35px;
 }
 a{
   text-decoration:none;
   color:#1F1D58;
+  font-size:35px;
 }
