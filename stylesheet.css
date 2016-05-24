@@ -8,6 +8,7 @@ p{
   width:1150px;
   height:100px;
   background-color:orange;
+  border:3px solid black;
 }
 #home{
   height:90px;
@@ -17,6 +18,7 @@ p{
   background-color:blue;
   width:250px;
   border-radius:10px;
+  border:3px solid black;
 }
 #about{
   height:90px;
@@ -26,6 +28,7 @@ p{
   background-color:green;
   width:250px;
   border-radius:10px;
+  border:3px solid black;
 }
 #events{
   height:90px;
@@ -35,6 +38,7 @@ p{
   background-color:purple;
   width:250px;
   border-radius:10px;
+  border:3px solid black;
 }
 #outreach{
   height:90px;
@@ -44,4 +48,5 @@ p{
   background-color:yellow;
   width:250px;
   border-radius:10px;
+  border:3px solid black;
 }
