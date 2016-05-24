@@ -15,4 +15,21 @@ div{
   display:inline-block;
   margin-left:5px;
   background-color:blue;
+  width:250px;
+}
+#about{
+  height:90px;
+  margin-top:5px;
+  display:inline-block;
+  margin-left:5px;
+  background-color:green;
+  width:250px;
+}
+#events{
+  height:90px;
+  margin-top:5px;
+  display:inline-block;
+  margin-left:5px;
+  background-color:purple;
+  width:250px;
 }
