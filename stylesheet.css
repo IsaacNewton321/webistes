@@ -9,9 +9,10 @@ div{
   height:100px;
   background-color:orange;
 }
-div div{
+#home{
+  height:90px;
+  margin-top:5px;
   display:inline-block;
-  height:100px;
-  width:250px;
+  margin-left:5px;
   background-color:blue;
 }
