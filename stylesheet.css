@@ -9,49 +9,27 @@ h1{
   height:106px;
   background-color:orange;
 }
-#home{
+div div{
   height:90px;
   margin-top:5px;
   display:inline-block;
   margin-left:5px;
-  background-color:blue;
   width:250px;
   border-radius:10px;
   border:3px solid black;
   text-align:center;
+}
+#home{
+  background-color:blue;
 }
 #about{
-  height:90px;
-  margin-top:5px;
-  display:inline-block;
-  margin-left:5px;
   background-color:green;
-  width:250px;
-  border-radius:10px;
-  border:3px solid black;
-  text-align:center;
 }
 #events{
-  height:90px;
-  margin-top:5px;
-  display:inline-block;
-  margin-left:5px;
   background-color:purple;
-  width:250px;
-  border-radius:10px;
-  border:3px solid black;
-  text-align:center;
 }
 #outreach{
-  height:90px;
-  margin-top:5px;
-  display:inline-block;
-  margin-left:5px;
   background-color:yellow;
-  width:250px;
-  border-radius:10px;
-  border:3px solid black;
-  text-align:center;
 }
 a:hover{
   text-decoration:none;
