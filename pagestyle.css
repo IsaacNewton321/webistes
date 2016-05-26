@@ -43,3 +43,78 @@ td{
 .autolowgoal{
   background-color:#54B43C;
 }
+.shotsfired{
+  background-color:#B3CDE0;
+}
+.highscored{
+  background-color:#6497B1;
+}
+.lowscored{
+  background-color:#296A7A;
+}
+.lowbarcrossed{
+  background-color:#005B96;
+}
+.lowhardcrossed{
+  background-color:#03396C;
+}
+.portcullcross{
+  background-color:#0079B4;
+}
+.porthardcross{
+  background-color:#336397;
+}
+.cdfcrossed{
+  background-color:#00447F;
+}
+.cdfhardcross{
+  background-color:#013660;
+}
+.moatcross{
+  background-color:#002C4F;
+}
+.moathardcross{
+  background-color:#221C69;
+}
+.rampcross{
+  background-color:#431C76;
+}
+.ramphardcross{
+  background-color:#663B94;
+}
+.drawcross{
+  background-color:#844DA3;
+}
+.drawhardcross{
+  background-color:#AD3098;
+}
+.sallycross{
+  background-color:#C56AB6;
+}
+.sallyhardcross{
+  background-color:#E57CC2;
+}
+.rockwallcross{
+  background-color:##F2AEE4;
+}
+.rockhardcross{
+  background-color:#FFC2CD;
+}
+.roughcross{
+  background-color:#FF93AC;
+}
+.roughhardcross{
+  background-color:#FF6289;
+}
+.robotchallenge{
+  background-color:#FC3468;
+}
+.robotclimb{
+  background-color:#FF084A;
+}
+.climbspeed{
+  background-color:#f22525;
+}
+.climbsuccess{
+  background-color:#D92323;
+}
