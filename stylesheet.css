@@ -4,11 +4,11 @@ img{
 #bar{
   margin-top:5px;
   width:1150px;
-  height:106px;
+  height:36px;
   background-color:orange;
 }
 div div{
-  height:90px;
+  height:30px;
   margin-top:5px;
   display:inline-block;
   margin-left:5px;
@@ -32,13 +32,13 @@ div div{
 a:hover{
   text-decoration:none;
   color:white;
-  margin-top:45px;
+  margin-top:20px;
   font-family:Courier;
 }
 a{
   text-decoration:none;
   color:#1F1D58;
-  font-size:50px;
+  font-size:20px;
   margin-top:45px;
   font-family:Courier;
   font-weight:bold;
